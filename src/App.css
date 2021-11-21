@@ -3,6 +3,9 @@
   background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
 
+h1 {
+  text-align: center;
+}
 .search-form {
   min-height: 10vh;
   display: flex;
